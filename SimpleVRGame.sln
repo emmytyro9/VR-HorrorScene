@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleVRGame", "SimpleVRGame.csproj", "{16DBEF45-3EDD-FA94-292E-C953F4BC3D54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleVRGame.Plugins", "SimpleVRGame.Plugins.csproj", "{5A228B42-23B8-8214-F248-C82FDBC9FF22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleVRGame.Editor.Plugins", "SimpleVRGame.Editor.Plugins.csproj", "{78AF2B51-25E6-DC51-ABC1-71BDCB2F8C41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleVRGame.Editor", "SimpleVRGame.Editor.csproj", "{C7BB9E48-49CA-67D2-5F81-3804738354A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16DBEF45-3EDD-FA94-292E-C953F4BC3D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16DBEF45-3EDD-FA94-292E-C953F4BC3D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16DBEF45-3EDD-FA94-292E-C953F4BC3D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16DBEF45-3EDD-FA94-292E-C953F4BC3D54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A228B42-23B8-8214-F248-C82FDBC9FF22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A228B42-23B8-8214-F248-C82FDBC9FF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A228B42-23B8-8214-F248-C82FDBC9FF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A228B42-23B8-8214-F248-C82FDBC9FF22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78AF2B51-25E6-DC51-ABC1-71BDCB2F8C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78AF2B51-25E6-DC51-ABC1-71BDCB2F8C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78AF2B51-25E6-DC51-ABC1-71BDCB2F8C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78AF2B51-25E6-DC51-ABC1-71BDCB2F8C41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7BB9E48-49CA-67D2-5F81-3804738354A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7BB9E48-49CA-67D2-5F81-3804738354A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7BB9E48-49CA-67D2-5F81-3804738354A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7BB9E48-49CA-67D2-5F81-3804738354A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
